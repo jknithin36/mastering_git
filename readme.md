@@ -1,4 +1,4 @@
-"Hello everyone welcome to Git course"
-"this is donr by one-branch"
+"Welocome to git"
+This is added by second-branch
 
 "I'am adding this from feature-branch"
